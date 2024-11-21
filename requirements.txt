@@ -1,0 +1,7 @@
+torch==2.0.1
+torchtext==0.15.2
+numpy==1.26.4
+matplotlib
+scikit-learn
+numpy
+plotly
